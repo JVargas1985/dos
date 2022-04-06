@@ -1,0 +1,13 @@
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\bin\Debug\Proyecto Curso.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\bin\Debug\Proyecto Curso.pdb
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\bin\Debug\Proyecto Curso.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto Curso.vbproj.AssemblyReference.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto_Curso.Resources.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto Curso.vbproj.GenerateResource.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto Curso.vbproj.CoreCompileInputs.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto Curso.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto Curso.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto Curso.pdb
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto_Curso.login.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto_Curso.usuariosok.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Proyecto Curso\obj\Debug\Proyecto_Curso.menuprincipalmatriculas.resources

@@ -1,0 +1,12 @@
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\bin\Debug\Practica textbox.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\bin\Debug\Practica textbox.pdb
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\bin\Debug\Practica textbox.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica textbox.vbproj.AssemblyReference.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica_textbox.Resources.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica_textbox.ventas.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica textbox.vbproj.GenerateResource.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica textbox.vbproj.CoreCompileInputs.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica textbox.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica textbox.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica textbox.pdb
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica textbox\obj\Debug\Practica_textbox.Usuarios.resources

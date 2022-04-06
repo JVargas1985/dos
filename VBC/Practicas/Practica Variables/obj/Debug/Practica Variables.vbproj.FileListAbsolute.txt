@@ -1,0 +1,11 @@
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica Variables.vbproj.AssemblyReference.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica_Variables.Ejercicios.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica_Variables.Resources.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica Variables.vbproj.GenerateResource.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica Variables.vbproj.CoreCompileInputs.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\bin\Debug\Practica Variables.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\bin\Debug\Practica Variables.pdb
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\bin\Debug\Practica Variables.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica Variables.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica Variables.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica Variables\obj\Debug\Practica Variables.pdb

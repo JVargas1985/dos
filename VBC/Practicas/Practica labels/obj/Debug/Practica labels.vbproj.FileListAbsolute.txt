@@ -1,0 +1,11 @@
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\bin\Debug\Practica labels.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\bin\Debug\Practica labels.pdb
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\bin\Debug\Practica labels.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica labels.vbproj.AssemblyReference.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica_labels.Form1.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica_labels.Resources.resources
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica labels.vbproj.GenerateResource.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica labels.vbproj.CoreCompileInputs.cache
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica labels.exe
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica labels.xml
+C:\Users\JVARGAS\Desktop\VBC\Practicas\Practica labels\obj\Debug\Practica labels.pdb

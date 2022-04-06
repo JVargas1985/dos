@@ -1,0 +1,6 @@
+C:\Users\JVARGAS\Desktop\Cursos\c#\Practica1\bin\Debug\Practica1.exe
+C:\Users\JVARGAS\Desktop\Cursos\c#\Practica1\bin\Debug\Practica1.pdb
+C:\Users\JVARGAS\Desktop\Cursos\c#\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\JVARGAS\Desktop\Cursos\c#\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\JVARGAS\Desktop\Cursos\c#\Practica1\obj\Debug\Practica1.exe
+C:\Users\JVARGAS\Desktop\Cursos\c#\Practica1\obj\Debug\Practica1.pdb
